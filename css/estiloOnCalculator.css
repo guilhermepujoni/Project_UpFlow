@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+/* cabeçalho da página */
+header {
+    background-color: #87b6b8;
+    display: flex;
+    padding: .5em 0em;
+    border-bottom: 2px solid #445657;}
+#logoemvideo { 
+    width: 90px;
+    margin-left: 1em;}
+#logoemvideo img {
+    width: 100%;
+    float: left;}
+
+#nome-do-site {
+    color: black;
+    width: 100%;
+    padding-top: .5em;
+    font-size: 34px;
+    text-align: center;
+    margin-left: -5%;} 
+header #nome-do-site span {
+    color: rgb(231, 219, 219);}
+#nome-do-site #subtitle {
+    font-size: 15px;
+    margin-top: .7em;}
+
+
+/* corpo central da página */
+
+#bloco-central {
+    border: 2px solid #4e6f70;
+    width: 60%;
+    padding: 2em;
+    margin: 1em auto ;
+    min-height: 200px;
+}
+#quantidade { /* input quantidade */
+    margin: 4px 1px;
+    padding: 3px;
+}
+#acrescentar {
+    margin-right: 4%;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+/* Div de acrescimo de inputs */
+#inputs {
+    margin: 12px 0;
+    padding: 2em;
+    border: 1px solid #445657;
+    background: rgba(211, 211, 211, 0.226);
+}
+.campo {
+    width: 96%;
+    max-width: 14em;
+    height: 17px;
+    margin: 2px;
+}
+#botaosomar { 
+    width: 5em;
+    height: 2em;
+    border-radius: 4px;
+    margin: 1em 0;
+    font-size: 12px;
+    border: 1px solid black;
+    box-shadow: .1em .1em .5em rgba(0, 0, 0, 0.377);
+}
+
+
+/* Janela Resultado somado */
+
+#resultado{
+    background-color: rgb(211, 211, 211);
+    position: fixed;
+    margin: 80px 0 0 22%;        
+    width: 55%;   
+    height: 25%;
+    text-align: center;
+    padding: 4em 0 0 0;
+    border: 2px solid #4e6f70;
+    border-radius: 5px;
+}
+#botaofecha {
+    background-color: rgb(211, 211, 211);
+    width: 16px;
+    height: 17px;
+    border-radius: 4px;
+    float: right;
+    margin: -62px 2px 0 0;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+/* Rodapé da página */
+footer {
+    background-color: #78a2a3;
+    color: white;
+    height: 20px;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 21.5em;
+    font-size: 12px;}
