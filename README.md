@@ -1,6 +1,6 @@
 # Projeto UpFlow
 
-## :calculator: Descrição
+## :star: Descrição
 
 <p align="center">
   <img src="https://i.imgur.com/9dEOs55.png" height="250">
