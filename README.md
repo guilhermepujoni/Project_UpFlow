@@ -11,7 +11,7 @@ Projeto criado para um teste de Estágio em uma empresa
 O objetivo principal da página é receber um número que cria uma quantidade de campos a serem somados.<br>
 Assim que o usuário preencher todos os campos, o resultado será criado em forma de pop-up
 
-/* Only to train the English, hehehe */
+## Description (English)
 
 Project created for a internship test of a company
 
