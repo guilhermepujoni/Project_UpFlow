@@ -1,8 +1,15 @@
-# Project_UpFlow
+# Projeto UpFlow
+
+## Descrição
+
+<p align="center">
+  <img src="https://i.imgur.com/9dEOs55.png" height="400">
+</p>
 
 Projeto criado para um teste de Estágio em uma empresa
 
-O objetivo principal da página é receber um número que cria uma quantidade de campos a serem somados. Assim que o usuário preencher todos os campos, o resultado será criado em forma de pop-up
+O objetivo principal da página é receber um número que cria uma quantidade de campos a serem somados.<br>
+Assim que o usuário preencher todos os campos, o resultado será criado em forma de pop-up
 
 /* Only to train the English, hehehe */
 
