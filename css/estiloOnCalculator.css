@@ -1,6 +1,8 @@
 * {
     margin: 0;
-    padding: 0;}
+    padding: 0;
+}
+
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
@@ -9,13 +11,16 @@ header {
     background-color: #87b6b8;
     display: flex;
     padding: .5em 0em;
-    border-bottom: 2px solid #445657;}
+    border-bottom: 2px solid #445657;
+}
 #logoemvideo { 
     width: 90px;
-    margin-left: 1em;}
+    margin-left: 1em;
+}
 #logoemvideo img {
     width: 100%;
-    float: left;}
+    float: left;
+}
 
 #nome-do-site {
     color: black;
@@ -23,12 +28,16 @@ header {
     padding-top: .5em;
     font-size: 34px;
     text-align: center;
-    margin-left: -5%;} 
+    margin-left: -5%;
+} 
+
 header #nome-do-site span {
-    color: rgb(231, 219, 219);}
+    color: rgb(231, 219, 219);
+}
 #nome-do-site #subtitle {
     font-size: 15px;
-    margin-top: .7em;}
+    margin-top: .7em;
+}
 
 
 /* corpo central da página */
@@ -87,6 +96,7 @@ header #nome-do-site span {
     border: 2px solid #4e6f70;
     border-radius: 5px;
 }
+
 #botaofecha {
     background-color: rgb(211, 211, 211);
     width: 16px;
